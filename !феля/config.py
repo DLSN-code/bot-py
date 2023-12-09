@@ -1,2 +1,2 @@
-token = "MTA4MjAwNjg3MDQwOTA4OTAzNA.Gvxpfp.i7KNyfKIe_4jO3WuBSTgBYakg8TMLq8us3j7hI"
-token_openai = "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"
+token = ""
+token_openai = ""
